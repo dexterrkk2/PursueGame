@@ -8,7 +8,6 @@ public class Separation : SteeringBehavior
     float maxAcceleration = 1f;
 
     public Kinematic[] targets;
-
     // the threshold to take action
     float threshold = 5f; // 5
 
